@@ -4,6 +4,7 @@
 
 ### A B S T R A C T S
 
+<div class="text-justify">
 The Covid-19 disease is not an epidemic that can be ignored, the development of the transmission of this virus is quite significant because its spread is global and all countries are feeling the impact, including Indonesia. The impact of Covid-19 has a very strong impact on education, therefore in the education sector, the government through the Ministry of Education and Culture has implemented a learning from home policy. Online learning is a solution to the implementation of online learning, but we already know that online learning is not as easy as learning as usual or offline learning. In this article, we will discuss online learning using Zoom Meeting. The research method used is a qualitative method with a phenomenological approach and conducting observations and interviews. The obstacles faced are electronic media and internet quotas for online learning. Not all students are equal in terms of economics, which is the only problem.
 
 ### A B S T R A K 
@@ -72,6 +73,32 @@ Pada Gambar 4 yaitu pertemuan kedua melaksanakan mentoring siswa pada mata pelaj
 In Figure 5, the third meeting is implementing student mentoring in thematic subjects. In this third meeting, students became more confident in using the Zoom Meeting. And not only mentoring, the author conducted a direct interview through the Zoom Meeting about how about the Zoom Meeting, was it difficult or fun? The student's answer was only the problem with cell phones and inadequate internet quota. What has been said at the outset is that in fact the only constraints are on electronic media and quotas because not all of them have the same economy. For the implementation, the students are very enthusiastic.
 
 Pada Gambar 5, pertemuan ketiga adalah pelaksanaan pendampingan siswa pada mata pelajaran tematik. Pada pertemuan ketiga ini siswa menjadi lebih percaya diri dalam menggunakan Zoom Meeting. Dan tidak hanya pendampingan, penulis melakukan wawancara langsung melalui Zoom Meeting tentang bagaimana dengan Zoom Meeting, apakah sulit atau menyenangkan? Jawaban siswa hanya masalah ponsel dan kuota internet yang tidak mencukupi. Apa yang dikatakan di awal sebenarnya kendalanya hanya pada media elektronik dan kuota karena tidak semuanya memiliki ekonomi yang sama. Untuk pelaksanaannya, para siswa sangat antusias.
+</div>
+
+<center> <img src="bukti_pendidikan1.PNG"> </center>
+
+###### <center> Gambar 1 Bukti Pendidikan </center>
+#
+
+<center><img src="bukti_pendidikan2.PNG"></center>
+
+###### <center> Gambar 2 Bukti Pendidikan </center>
+#
+
+<center> <img src="bukti_pertemuan_zoom1.PNG"> </center>
+
+###### <center> Gambar Bukti Pertemuan Zoom 1 </center>
+#
+
+<center> <img src="bukti_pertemuan_zoom2.PNG"> </center>
+
+###### <center> Gambar Bukti Pertemuan Zoom 2 </center>
+#
+
+<center> <img src="bukti_pertemuan_zoom3.PNG"> </center>
+
+###### <center> Gambar Bukti Pertemuan Zoom 3</center>
+#
 
 ### 4. CONCLUSION
 So, the application of online learning through the Zoom Meeting at elementary school Karya Mekar was successfully implemented, with students who were very enthusiastic about doing online learning through the Zoom Meeting. However, the obstacles faced are electronic media and internet quotas for online learning. Not all students are equal in terms of economics, that is the only problem. For its implementation there are no obstacles and it is highly desired by Karya Mekar Elementary School students, especially third grade.
