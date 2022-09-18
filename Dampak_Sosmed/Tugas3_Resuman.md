@@ -43,13 +43,11 @@ Pada Gambar 4 yaitu pertemuan kedua melaksanakan mentoring siswa pada mata pelaj
 ###### <center> **Gambar 4.** Bukti Pertemuan Zoom 2 </center>
 #
 
-#
 Pada Gambar 5, pertemuan ketiga adalah pelaksanaan pendampingan siswa pada mata pelajaran tematik. Pada pertemuan ketiga ini siswa menjadi lebih percaya diri dalam menggunakan Zoom Meeting. Dan tidak hanya pendampingan, penulis melakukan wawancara langsung melalui Zoom Meeting tentang bagaimana dengan Zoom Meeting, apakah sulit atau menyenangkan? Jawaban siswa hanya masalah ponsel dan kuota internet yang tidak mencukupi. Apa yang dikatakan di awal sebenarnya kendalanya hanya pada media elektronik dan kuota karena tidak semuanya memiliki ekonomi yang sama. Untuk pelaksanaannya, para siswa sangat antusias.
 
 <center> <img src="bukti_pertemuan_zoom3.PNG"> </center>
 
 ###### <center> **Gambar 5.** Bukti Pertemuan Zoom 3 </center>
-#
 #
 
 ## KESIMPULAN
