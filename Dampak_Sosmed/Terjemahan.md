@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application of Online Learning during the Covid-19 Pandemic through Zoom Meeting at Elementary School
 
 # Aplikasi Pembelajaran Online di Masa Pandemi Covid-19 Melalui Zoom Meeting di SD
@@ -76,4 +77,111 @@ Pada Gambar 5, pertemuan ketiga adalah pelaksanaan pendampingan siswa pada mata 
 ### 4. CONCLUSION
 So, the application of online learning through the Zoom Meeting at elementary school Karya Mekar was successfully implemented, with students who were very enthusiastic about doing online learning through the Zoom Meeting. However, the obstacles faced are electronic media and internet quotas for online learning. Not all students are equal in terms of economics, that is the only problem. For its implementation there are no obstacles and it is highly desired by Karya Mekar Elementary School students, especially third grade.
 
+=======
+# Application of Online Learning during the Covid-19 Pandemic through Zoom Meeting at Elementary School
+
+# Aplikasi Pembelajaran Online di Masa Pandemi Covid-19 Melalui Zoom Meeting di SD
+
+### A B S T R A C T S
+
+<div class="text-justify">
+The Covid-19 disease is not an epidemic that can be ignored, the development of the transmission of this virus is quite significant because its spread is global and all countries are feeling the impact, including Indonesia. The impact of Covid-19 has a very strong impact on education, therefore in the education sector, the government through the Ministry of Education and Culture has implemented a learning from home policy. Online learning is a solution to the implementation of online learning, but we already know that online learning is not as easy as learning as usual or offline learning. In this article, we will discuss online learning using Zoom Meeting. The research method used is a qualitative method with a phenomenological approach and conducting observations and interviews. The obstacles faced are electronic media and internet quotas for online learning. Not all students are equal in terms of economics, which is the only problem.
+
+### A B S T R A K 
+
+Penyakit Covid-19 bukanlah wabah yang bisa diabaikan begitu saja, perkembangan penularan virus ini cukup signifikan karena penyebarannya bersifat global dan semua negara merasakan dampaknya, termasuk Indonesia. Dampak Covid-19 berdampak sangat kuat terhadap pendidikan, oleh karena itu di bidang pendidikan, pemerintah melalui Kementerian Pendidikan dan Kebudayaan telah menerapkan kebijakan belajar dari rumah. Pembelajaran online merupakan solusi dari pelaksanaan pembelajaran online, namun kita sudah mengetahui bahwa pembelajaran online tidak semudah belajar seperti biasanya atau pembelajaran offline. Pada artikel kali ini, kita akan membahas pembelajaran online menggunakan Zoom Meeting. Metode penelitian yang digunakan adalah metode kualitatif dengan pendekatan fenomenologis serta melakukan observasi dan wawancara. Kendala yang dihadapi adalah media elektronik dan kuota internet untuk pembelajaran online. Tidak semua siswa sama dalam hal ekonomi, yang merupakan satu-satunya masalah.
+
+### 1. INTRODUCTION
+
+2020 is an alarming year for all countries in the world regarding the emergence and spread of the Covid-19 disease known as the Corona virus. His first case came from the city of Wuhan, China. The Covid-19 disease is not an epidemic that can be ignored, the development of the transmission of this virus is quite significant because its spread is global and all countries are feeling its impact, including Indonesia (Agustika, 2020). Many researchers have reported the ways how to against Covid-19 pandemic (Machmud & Minghat, 2020; Putra & Abidin, 2020; Anggraeni, 2020; Razon, 2020; Hamidah et al., 2020; Hashim et al., 2020; Dirgantari et al., 2020; Mulyanti et al., 2020; Sangsawang, 2020; Hasanah et al., 2020). The very rapid transmission of the Covid-19 disease has caused the World Health Organization (WHO) to determine the Covid-19 virus as a pandemic on March 11, 2020. The status of the pandemic indicates that the spread of the virus is progressing so fast that almost no country in the world can ensure its d envy. avoid the corona virus.
+
+Tahun 2020 merupakan tahun yang mengkhawatirkan bagi seluruh negara di dunia mengenai munculnya dan penyebaran penyakit Covid-19 yang dikenal dengan virus Corona. Kasus pertamanya berasal dari kota Wuhan, China. Penyakit Covid-19 bukanlah wabah yang bisa diabaikan begitu saja, perkembangan penularan virus ini cukup signifikan karena penyebarannya sudah mendunia dan semua negara merasakan dampaknya, termasuk Indonesia (Agustika, 2020). Banyak peneliti telah melaporkan cara-cara bagaimana melawan pandemi Covid-19 (Machmud & Minghat, 2020; Putra & Abidin, 2020; Anggraeni, 2020; Razon, 2020; Hamidahdkk., 2020; Hashimdkk., 2020; Dirgataridkk., 2020; mulyantidkk., 2020; Sangsawang, 2020; Hasanahdkk., 2020). Penularan penyakit Covid-19 yang sangat cepat menyebabkan Organisasi Kesehatan Dunia (WHO) menetapkan virus Covid-19 sebagai pandemi pada 11 Maret 2020. Status pandemi menunjukkan bahwa penyebaran virus semakin berkembang. cepat sehingga hampir tidak ada negara di dunia yang dapat memastikan kecemburuannya. terhindar dari virus korona.
+
+In (Irfan & Ariandi, 2021) the education sector, the government through the Ministry of Education and Culture (Kemdikbud) has implemented a policy of learning from home or study from home (BDR), especially for education unit in the area of the zone of yellow, orange and red. This refers to the Joint Decree of the Minister of Education and Culture, Minister of Religion, Minister of Health and Minister of Home Affairs regarding Guidelines for Implementation of Learning in the 2020/2021 Academic Year and Academic Year 2020/2021 during the Covid-19 period. For education units that are in the green zone, they can carry out face-to-face learning while still paying attention to health protocols.
+
+Di (Irfan & Ariandi, 2021) Bidang pendidikan, pemerintah melalui Kementerian Pendidikan dan Kebudayaan (Kemdikbud) telah menerapkan kebijakan belajar dari rumah atau _study from home_ (BDR), khususnya bagi satuan pendidikan di kawasan zona kuning, jingga dan merah. Hal ini mengacu pada Keputusan Bersama Menteri Pendidikan dan Kebudayaan, Menteri Agama, Menteri Kesehatan, dan Menteri Dalam Negeri tentang Pedoman Pelaksanaan Pembelajaran Tahun Pelajaran 2020/2021 dan Tahun Pelajaran 2020/2021 selama masa periode Covid-19. Bagi satuan pendidikan yang berada di zona hijau dapat melaksanakan pembelajaran secara tatap muka dengan tetap memperhatikan protokol kesehatan.
+
+Learning from Home (BDR) is implemented with a Distance Learning (PJJ) system. In Law No. 20 of 2003 article 1 paragraph 15, explains that PJJ is education where students are separated from educators and learning uses various learning sources through communication technology, information and other media. In its implementation, PJJ is divided into two approaches, namely online distance learning (online) and offline distance learning. In implementing PJJ, educational units can choose an approach (online or offline or a combination of both) according to the characteristics and availability, readiness of facilities and infrastructure (Irfan & Ariandi, 2021).
+
+Pembelajaran dari Rumah (BDR) dilaksanakan dengan sistem Pembelajaran Jarak Jauh (PJJ). Dalam Undang-Undang Nomor 20 Tahun 2003 pasal 1 ayat 15, menjelaskan bahwa PJJ adalah pendidikan dimana peserta didik dipisahkan dari pendidik dan pembelajarannya menggunakan berbagai sumber belajar melalui teknologi komunikasi, informasi dan media lainnya. Dalam pelaksanaannya, PJJ terbagi menjadi dua pendekatan, yaitu pembelajaran jarak jauh online (online) dan pembelajaran jarak jauh offline. Dalam melaksanakan PJJ, satuan pendidikan dapat memilih pendekatan (online atau offline atau kombinasi keduanya) sesuai dengan karakteristik dan ketersediaan, kesiapan sarana dan prasarana (Irfan & Ariandi, 2021).
+
+There is a description above, namely, one type of PJJ is online learning. In the context of learning, online learning is a learning method that uses an internet-based interactive model and a Learning Management System (LMS), such as using Zoom, Google Meet, and so on. Learning online certainly has its challenges. Unlike offline, it not only requires a supportive atmosphere at home for studying, but also an adequate internet connection. However, an effective learning process is equally important (Kolb, 1976).
+
+Berdasarkan uraian di atas yaitu salah satu jenis PJJ adalah pembelajaran online. Dalam konteks pembelajaran, pembelajaran online merupakan metode pembelajaran yang menggunakan model interaktif berbasis internet dan Learning Management System (LMS), seperti menggunakan Zoom, Google Meet, dan sebagainya. Belajar online tentu memiliki tantangan tersendiri. Berbeda dengan offline, tidak hanya membutuhkan suasana yang mendukung di rumah untuk belajar, tetapi juga koneksi internet yang memadai. Namun, proses belajar yang efektif sama pentingnya (Kolb, 1976).
+
+
+The authors apply this research to online learning using Zoom Meeting. Zoom Meeting is an application that makes it easier for people to meet face to face and communicate without having to meet face to face. Zoom Meeting is an application used to assist the face-to-face learning process using video. In short, Zoom Meeting is a video-based application. (Handayani, 2020).
+
+Penulis menerapkan penelitian ini pada pembelajaran online menggunakan Zoom Meeting. Zoom Meeting adalah aplikasi yang memudahkan orang untuk bertemu tatap muka dan berkomunikasi tanpa harus bertatap muka. Zoom Meeting merupakan aplikasi yang digunakan untuk membantu proses pembelajaran tatap muka menggunakan video. Singkatnya, Zoom Meeting adalah aplikasi berbasis video. (Handayani, 2020).
+
+From the description above, during a pandemic like this, online learning becomes a solution to the implementation of online learning, but we already know that online learning is not as easy as learning as usual or offline learning. The problem that will be questioned is how is the application of online learning using zoom meetings?. The results of this study are expected to become information and reference materials in implementing online learning using zoom meeting learning media.
+
+Dari uraian di atas, di masa pandemi seperti ini, pembelajaran online menjadi solusi pelaksanaan pembelajaran online, namun kita sudah mengetahui bahwa pembelajaran online tidak semudah belajar seperti biasanya atau pembelajaran offline. Masalah yang akan ditanyakan adalah bagaimana penerapan pembelajaran online menggunakan zoom meeting?. Hasil penelitian ini diharapkan dapat menjadi bahan informasi dan referensi dalam melaksanakan pembelajaran online menggunakan media pembelajaran zoom meeting.
+
+### 2. METHODS
+
+In this study, the author used qualitative research methods, namely research that uses humans as instruments, producing descriptive data in the form of written or spoken words from people and behaviour that can be observed (Herring, 2004). 
+
+Dalam penelitian ini, penulis menggunakan metode penelitian kualitatif, yaitu penelitian yang menggunakan manusia sebagai instrumennya, menghasilkan data deskriptif berupa kata-kata tertulis atau lisan dari orang-orang dan perilaku yang dapat diamati (Harimau, 2004).
+
+The type of approach is phenomenology. The qualitative research method with a phenomenological approach according to Creswell is one type of qualitative approach where in this type of approach the researcher makes an observation to the participant to find out the phenomena that occur in the participant's life. This is done as a form of data collection by researchers which is then processed to find the meaning of what has been stated by the participants. Phenomenology basically aims to know deeply about a person's life journey. And the authors conducted the interview method and analyse and the results (survey).
+
+Jenis pendekatannya adalah fenomenologi. Metode penelitian kualitatif dengan pendekatan fenomenologis menurut Creswell merupakan salah satu jenis pendekatan kualitatif dimana dalam jenis pendekatan ini peneliti melakukan observasi kepada partisipan untuk mengetahui fenomena yang terjadi dalam kehidupan partisipan.Hal ini dilakukan sebagai bentuk pengumpulan data oleh peneliti yang kemudian diolah untuk menemukan makna dari apa yang telah dikemukakan oleh partisipan. Fenomenologi pada dasarnya bertujuan untuk mengetahui secara mendalam tentang perjalanan hidup seseorang. Dan penulis melakukan metode wawancara dan menganalisa serta hasil (survey).
+
+### 3. RESULTS AND DISCUSSION
+
+In the first stage, the writer made observations by making observations to the principal and teachers of elementary school Karya Mekar especially to the target that the author aimed at, namely students in grades 3 and 6 regarding what learning media were used in online learning during the current pandemic. The learning media used are only through WhatsApp, not with others as shown in Figure 1 and 2. By only using WhatsApp, students still have difficulties with economic constraints, as for students who do not have cell phones or their parents do not have cell phones, therefore some students who do not have cell phones must submit their assignments directly to school while adhering to health protocols (Anshari et al., 2016). In learning, students are divided into groups, so that at the time of collecting assignments directly only the group leader goes to school. 
+
+Pada tahap pertama penulis melakukan observasi dengan melakukan observasi kepada kepala sekolah dan guru SD Karya Mekar khususnya terhadap sasaran yang penulis tuju yaitu siswa kelas 3 dan 6 mengenai media pembelajaran apa saja yang digunakan dalam pembelajaran online selama pembelajaran berlangsung saat pandemi ini. Media pembelajaran yang digunakan hanya melalui WhatsApp, tidak dengan yang lain seperti pada Gambar 1 dan 2. Dengan hanya menggunakan whatsapp siswa masih mengalami kesulitan dengan kendala ekonomi, adapun siswa yang tidak memiliki handphone atau orang tuanya tidak memiliki handphone, oleh karena itu beberapa siswa yang tidak memiliki handphone harus menyerahkan tugasnya langsung ke sekolah dengan tetap berpegang pada protokol kesehatan (Anshari dkk., 2016). Dalam pembelajaran siswa dibagi menjadi beberapa kelompok, sehingga pada saat mengumpulkan tugas secara langsung hanya ketua kelompok yang pergi ke sekolah.
+
+Obstacles to learning media are not only experienced by students, but also by teachers (Al Farizi, 2019). The teacher is said to be "clueless" with technology stuttering, it is very unfortunate that if during a pandemic like this one does not explore information technology more widely, it should be used as well as possible. In this case, the teacher can only use WhatsApp social media for assignment collection only. They don't understand online learning media. Because not all students have the same economic condition, teachers do not seek information technology. The next stage, the author conducted online learning education through WhatsApp social media, namely Zoom Meeting to students, teachers and parents of students. Educate the existence of online learning media Zoom Meeting by explaining how to use Zoom Meeting and others. 
+
+Kendala media pembelajaran tidak hanya dialami oleh siswa, tetapi juga oleh guru (Al Farizi, 2019). Guru dikatakan 'clueless' dengan teknologi gagap, sangat disayangkan jika di masa pandemi seperti ini tidak menggali teknologi informasi lebih luas harus dimanfaatkan dengan sebaik-baiknya. Dalam hal ini, guru hanya dapat menggunakan media sosial WhatsApp untuk pengumpulan tugas saja. Mereka tidak memahami media pembelajaran online. Karena tidak semua siswa memiliki kondisi ekonomi yang sama, guru tidak mencari teknologi informasi. Tahap selanjutnya penulis melakukan edukasi pembelajaran online melalui media sosial WhatsApp yaitu Zoom Meeting kepada siswa, guru dan orang tua siswa. Edukasi adanya media pembelajaran online Zoom Meeting dengan menjelaskan cara penggunaan Zoom Meeting dan lain-lain.
+
+Seen in Figures 1 and 2 the students' responses were very enthusiastic and their curiosity arose and wanted to immediately carry out the Zoom Meeting. However, while the current constraints on will download most mobile students are not sufficient to perform the download, but it does not become an obstacle for students not to download, they're trying to download a way to remove applications that are less useful. As for why the author chose to use Zoom Meeting, so that students can meet face-to-face even if only online. Not only that, so that students know the learning media through Zoom Meetings, because Zoom Meetings are mostly used by educational institutions (Serhan, 2020). Therefore, so that students already know how to use Zoom Meeting if at the next education level, they are instructed to carry out online learning through the Zoom Meeting. 
+
+Terlihat pada Gambar 1 dan 2 respon siswa sangat antusias dan rasa penasaran mereka muncul dan ingin segera melaksanakan Zoom Meeting. Namun kendala saat akan mendownload kebanyakan mobile siswa tidak mencukupi untuk melakukan download, namun hal tersebut tidak menjadi kendala bagi siswa untuk tidak mendownload, mereka mencoba mendownload dengan cara menghapus aplikasi yang kurang bermanfaat. Adapun mengapa penulis memilih menggunakan Zoom Meeting, agar siswa dapat bertatap muka walaupun hanya secara online. Tidak hanya itu, agar siswa mengetahui media pembelajaran melalui Zoom Meeting, karena Zoom Meeting banyak digunakan oleh institusi pendidikan (Serhan, 2020). Oleh karena itu, agar siswa sudah mengetahui cara menggunakan Zoom Meeting jika pada jenjang pendidikan selanjutnya diinstruksikan untuk melaksanakan pembelajaran online melalui Zoom Meeting.
+
+In Figure 3, student mentoring in PJOK subjects through Zoom Meeting. In Figure 3, the first meeting of students is a little confused, starting from joining, turning on the audio speaker, mute, unmute and turn on the camera.
+
+Pada Gambar 3, pendampingan siswa mata pelajaran PJOK melalui Zoom Meeting. Di Gambar 3, pertemuan pertama siswa sedikit bingung, mulai dari join, nyalakan audio speaker, mute, unmute dan nyalakan kamera.
+
+In Figure 4, namely the second meeting, carrying out student assistance in thematic subjects, the day before the implementation the students were already wondering when to carry out the Zoom Meeting, the students were very enthusiastic. At the second meeting, students had no more difficulties with how to use Zoom Meeting (Serhan, 2020). 
+
+Pada Gambar 4 yaitu pertemuan kedua melaksanakan mentoring siswa pada mata pelajaran tematik, sehari sebelum pelaksanaan siswa sudah bertanya-tanya kapan akan melaksanakan Zoom Meeting, siswa sangat antusias. Pada pertemuan kedua, siswa tidak kesulitan lagi dalam menggunakan Zoom Meeting (Serhan, 2020). 
+
+In Figure 5, the third meeting is implementing student mentoring in thematic subjects. In this third meeting, students became more confident in using the Zoom Meeting. And not only mentoring, the author conducted a direct interview through the Zoom Meeting about how about the Zoom Meeting, was it difficult or fun? The student's answer was only the problem with cell phones and inadequate internet quota. What has been said at the outset is that in fact the only constraints are on electronic media and quotas because not all of them have the same economy. For the implementation, the students are very enthusiastic.
+
+Pada Gambar 5, pertemuan ketiga adalah pelaksanaan pendampingan siswa pada mata pelajaran tematik. Pada pertemuan ketiga ini siswa menjadi lebih percaya diri dalam menggunakan Zoom Meeting. Dan tidak hanya pendampingan, penulis melakukan wawancara langsung melalui Zoom Meeting tentang bagaimana dengan Zoom Meeting, apakah sulit atau menyenangkan? Jawaban siswa hanya masalah ponsel dan kuota internet yang tidak mencukupi. Apa yang dikatakan di awal sebenarnya kendalanya hanya pada media elektronik dan kuota karena tidak semuanya memiliki ekonomi yang sama. Untuk pelaksanaannya, para siswa sangat antusias.
+</div>
+
+<center> <img src="bukti_pendidikan1.PNG"> </center>
+
+###### <center> **Gambar 1.** Bukti Pendidikan </center>
+#
+
+<center><img src="bukti_pendidikan2.PNG"></center>
+
+###### <center> **Gambar 2.** Bukti Pendidikan </center>
+#
+
+<center> <img src="bukti_pertemuan_zoom1.PNG"> </center>
+
+###### <center> **Gambar 3.**  Bukti Pertemuan Zoom 1 </center>
+#
+
+<center> <img src="bukti_pertemuan_zoom2.PNG"> </center>
+
+###### <center> **Gambar 4** Bukti Pertemuan Zoom 2 </center>
+#
+
+<center> <img src="bukti_pertemuan_zoom3.PNG"> </center>
+
+###### <center> **Gambar 5.** Bukti Pertemuan Zoom 3</center>
+#
+
+### 4. CONCLUSION
+So, the application of online learning through the Zoom Meeting at elementary school Karya Mekar was successfully implemented, with students who were very enthusiastic about doing online learning through the Zoom Meeting. However, the obstacles faced are electronic media and internet quotas for online learning. Not all students are equal in terms of economics, that is the only problem. For its implementation there are no obstacles and it is highly desired by Karya Mekar Elementary School students, especially third grade.
+
+>>>>>>> 04e9b7b0de082b840f2027aa598dd5fdc0a70474
 Sehingga penerapan pembelajaran online melalui Zoom Meeting di SD Karya Mekar berhasil dilaksanakan, dengan siswa yang sangat antusias melakukan pembelajaran online melalui Zoom Meeting. Namun kendala yang dihadapi adalah media elektronik dan kuota internet untuk pembelajaran online. Tidak semua siswa sama dalam hal ekonomi, itu saja masalahnya. Untuk pelaksanaannya tidak ada kendala dan sangat diinginkan oleh siswa SD Karya Mekar khususnya kelas III.
