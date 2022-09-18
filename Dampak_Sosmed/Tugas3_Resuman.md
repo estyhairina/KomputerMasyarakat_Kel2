@@ -53,3 +53,4 @@ Pada Gambar 5, pertemuan ketiga adalah pelaksanaan pendampingan siswa pada mata 
 ## KESIMPULAN
 
 Penerapan pembelajaran online melalui Zoom Meeting di SD Karya Mekar berhasil dilaksanakan, dengan siswa yang sangat antusias melakukan pembelajaran online melalui Zoom Meeting. Namun kendala yang dihadapi adalah media elektronik dan kuota internet untuk pembelajaran online. Tidak semua siswa sama dalam hal ekonomi, itu saja masalahnya. Untuk pelaksanaannya tidak ada kendala dan sangat diinginkan oleh siswa SD Karya Mekar khususnya kelas III.
+Maka dengan adanya zoom meeting setidaknya siswa-siswi dapat bertatap muka selama pembelajaran meskipun tidak secara langsung.
