@@ -77,27 +77,27 @@ Pada Gambar 5, pertemuan ketiga adalah pelaksanaan pendampingan siswa pada mata 
 
 <center> <img src="bukti_pendidikan1.PNG"> </center>
 
-###### <center> Gambar 1 Bukti Pendidikan </center>
+###### <center> **Gambar 1.** Bukti Pendidikan </center>
 #
 
 <center><img src="bukti_pendidikan2.PNG"></center>
 
-###### <center> Gambar 2 Bukti Pendidikan </center>
+###### <center> **Gambar 2.** Bukti Pendidikan </center>
 #
 
 <center> <img src="bukti_pertemuan_zoom1.PNG"> </center>
 
-###### <center> Gambar Bukti Pertemuan Zoom 1 </center>
+###### <center> **Gambar 3.**  Bukti Pertemuan Zoom 1 </center>
 #
 
 <center> <img src="bukti_pertemuan_zoom2.PNG"> </center>
 
-###### <center> Gambar Bukti Pertemuan Zoom 2 </center>
+###### <center> **Gambar 4** Bukti Pertemuan Zoom 2 </center>
 #
 
 <center> <img src="bukti_pertemuan_zoom3.PNG"> </center>
 
-###### <center> Gambar Bukti Pertemuan Zoom 3</center>
+###### <center> **Gambar 5.** Bukti Pertemuan Zoom 3</center>
 #
 
 ### 4. CONCLUSION
